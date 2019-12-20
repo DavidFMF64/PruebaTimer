@@ -14,3 +14,5 @@
 #define f64		(double)
 #define u64		(unsigned long int )
 #define s64		(signed long int )
+#define u16		(short unsigned int)
+#define s16		(short int)
