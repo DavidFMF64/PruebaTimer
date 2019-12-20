@@ -33,16 +33,16 @@ int Var_prueba[2][2][5] =
 	},
 };
 
-int Var_prueba2[2][5] =
+u32 Var_prueba2[2][5] =
 {
 		{51,42,33,24,15},
 		{14,24,34,44,54},
 };
 
-int Var_prueba1[5] =  {80,90,30,40,60};
+u32 Var_prueba1[5] =  {80,90,30,40,60};
 
 
-int Var_float_prueba1[5] =  {80.1, 90.2, 30.3, 40.4, 60.5};
+u32 Var_float_prueba1[5] =  {80.1, 90.2, 30.3, 40.4, 60.5};
 
 
 void f1 ( void ) {
