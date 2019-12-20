@@ -10,6 +10,7 @@
 #define u32		(unsigned int)
 #define u8		(unsigned char)
 #define s8		(signed char)
-
 #define f32		(float)
 #define f64		(double)
+#define u64		(unsigned long int )
+#define s64		(signed long int )
